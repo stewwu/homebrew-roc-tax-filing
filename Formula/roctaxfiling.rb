@@ -4,8 +4,8 @@ class Roctaxfiling < Formula
   homepage "http://moica.nat.gov.tw/rac_plugin.html"
   url "http://api-hisecurecdn.cdn.hinet.net/HiPKILocalSignServer/mac/HiPKILocalSignServer.pkg"
   mirror "http://moica.nat.gov.tw/download/File/HiPKILocalSignServer/mac/HiPKILocalSignServer.pkg"
-  version "1.3.4.5"
-  sha256 "65b83f2c8f9f165d61ee35c34bac563e86f3178417653b10cc6f5a9dfb84c808"
+  version "1.3.4.6"
+  sha256 "ee1c3d6a2af6545d3360da26636d054ab17000e9c5b184cd2195f48604f2f95f"
 
   bottle :unneeded
 
